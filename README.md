@@ -1,4 +1,4 @@
-# SpringBoot + MySQL with Caffeine Cache
+# SpringBoot + H2 with Caffeine Cache
 
 
 # Getting Started
